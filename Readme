@@ -1,10 +1,159 @@
+# 💻 APE 3 – Estructuras de Repetición en Java
 
-| **Campo** | **Información** |
-| :--- | :--- |
-| **Tema** | APE 3 - Estructuras de repetición en Java: resolución de los 10 ejercicios propuestos |
-| **Unidad de Organización Curricular** | Unidad Básica |
-| **Nivel y Paralelo** | Primer semestre - Ingeniería de Software |
-| **Asignatura** | Algoritmos y Lógica de Programación |
-| **Docente** | Ing. José Rubén Caiza Caizabuano |
-| **Grupo** | Grupo 05 |
+Repositorio correspondiente al desarrollo de la **Actividad Práctica Experimental (APE 3)** de la asignatura **Algoritmos y Lógica de Programación**.
 
+En este proyecto se presentan **10 ejercicios resueltos en Java**, orientados al uso de estructuras de repetición y al fortalecimiento del razonamiento lógico mediante la programación.
+
+---
+
+## 📋 Datos académicos
+
+|                                       |                                                                               |
+| ------------------------------------- | ----------------------------------------------------------------------------- |
+| **Tema**                              | Estructuras de Repetición en Java: resolución de los 10 ejercicios propuestos |
+| **Carrera**                           | Ingeniería de Software                                                        |
+| **Nivel**                             | Primer semestre                                                               |
+| **Unidad de Organización Curricular** | Unidad Básica                                                                 |
+| **Asignatura**                        | Algoritmos y Lógica de Programación                                           |
+| **Docente**                           | Ing. José Ruben Caiza Caizabuano                                              |
+
+---
+
+## 👥 Integrantes
+
+| N.º | Estudiante                       |
+| --: | -------------------------------- |
+|   1 | Sandra Jazmin Alulema Chato      |
+|   2 | Anthony Daniel Armas Jaya        |
+|   3 | Joselyn Maribel Guaman Sagñay    |
+|   4 | Valeria Valentina Ortiz Mosquera |
+|   5 | Andrés Gabriel Vayas Masache     |
+
+---
+
+## 🎯 Propósito
+
+Aplicar estructuras de repetición para desarrollar soluciones algorítmicas en Java, utilizando ciclos y herramientas de control que permitan automatizar procesos, trabajar con datos de manera eficiente y resolver problemas mediante una lógica estructurada.
+
+---
+
+## 📂 Organización del proyecto
+
+```text
+APE3-GrupoXX/
+│
+├── README.md
+│
+├── ejercicio01/
+│   └── Ejercicio01.java
+│
+├── ejercicio02/
+│   └── Ejercicio02.java
+│
+├── ejercicio03/
+│   └── Ejercicio03.java
+│
+├── ejercicio04/
+│   └── Ejercicio04.java
+│
+├── ejercicio05/
+│   └── Ejercicio05.java
+│
+├── ejercicio06/
+│   └── Ejercicio06.java
+│
+├── ejercicio07/
+│   └── Ejercicio07.java
+│
+├── ejercicio08/
+│   └── Ejercicio08.java
+│
+├── ejercicio09/
+│   └── Ejercicio09.java
+│
+├── ejercicio10/
+│   └── Ejercicio10.java
+│
+├── documentacion/
+│   ├── algoritmos/
+│   ├── diagramas/
+│   └── pruebas/
+│
+└── evidencias/
+```
+
+---
+
+## 🔁 Contenido
+
+Los ejercicios permiten poner en práctica diferentes recursos de programación, entre ellos:
+
+* Ciclo `for`
+* Ciclo `while`
+* Ciclo `do-while`
+* Ciclos anidados
+* Contadores
+* Acumuladores
+* Condiciones dentro de ciclos
+* Validación de datos
+* Procesamiento repetitivo de información
+
+Cada solución se encuentra separada en su respectiva carpeta para facilitar su revisión y ejecución.
+
+---
+
+## 🧩 Documentación
+
+Además del código fuente, el repositorio incluye material de apoyo para comprender el proceso de desarrollo:
+
+**`documentacion/algoritmos/`**
+Contiene los algoritmos y pseudocódigos elaborados antes de la implementación.
+
+**`documentacion/diagramas/`**
+Incluye los diagramas de flujo que representan gráficamente la lógica de cada solución.
+
+**`documentacion/pruebas/`**
+Contiene las pruebas de escritorio utilizadas para comprobar el comportamiento de los programas.
+
+**`evidencias/`**
+Reúne capturas y evidencias relacionadas con el desarrollo y ejecución de la actividad.
+
+---
+
+## ▶️ Ejecución
+
+Los programas pueden ejecutarse desde cualquier entorno compatible con Java.
+
+Por ejemplo, para el primer ejercicio:
+
+```bash
+cd ejercicio01
+javac Ejercicio01.java
+java Ejercicio01
+```
+
+El mismo procedimiento puede aplicarse a los demás ejercicios cambiando el número correspondiente.
+
+---
+
+## 🛠️ Herramientas
+
+* **Java** – Desarrollo de los programas.
+* **Git** – Control de versiones.
+* **GitHub** – Almacenamiento y gestión del repositorio.
+* **IDE de desarrollo** – Edición y ejecución del código.
+
+---
+
+## 📌 Resultado esperado
+
+Al finalizar la actividad, el repositorio contiene las **10 soluciones funcionales**, junto con sus respectivos algoritmos, diagramas, pruebas y evidencias, manteniendo una estructura organizada que facilite la revisión del trabajo.
+
+---
+
+### 👨‍🏫 Docente
+
+**Ing. José Ruben Caiza Caizabuano**
+
+**Algoritmos y Lógica de Programación**
+**Ingeniería de Software – Primer semestre**
