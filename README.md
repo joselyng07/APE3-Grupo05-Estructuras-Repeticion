@@ -1,4 +1,4 @@
-# APE3 – Estructuras de Repetición en Java
+# APE3 – Estructuras de Repetición en Java.
 
 ## 📌 Información del proyecto
 
