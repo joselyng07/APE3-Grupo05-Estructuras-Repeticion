@@ -1,5 +1,4 @@
-# GRUPO5
-# APE3 – Estructuras de Repetición en Java.
+# APE3 – Estructuras de Repetición en Java
 
 ## 📌 Información del proyecto
 
@@ -10,7 +9,7 @@
 | **Nivel y Paralelo**                  | Primer semestre – Ingeniería de Software                                              |
 | **Asignatura**                        | Algoritmos y Lógica de Programación                                                   |
 | **Docente**                           | Ing. José Ruben Caiza Caizabuano                                                      |
-| **Grupo**                             | Grupo 05                                                                             |
+| **Grupo**                             | Grupo XX                                                                              |
 
 ---
 
@@ -20,7 +19,7 @@
 * **Anthony Daniel Armas Jaya**
 * **Joselyn Maribel Guaman Sagñay**
 * **Valeria Valentina Ortiz Mosquera**
-* **Andres Gabriel Vayas Masache**
+* **Andrés Gabriel Vayas Masache**
 
 ---
 
@@ -83,6 +82,14 @@ APE3-GrupoXX/
 │
 ├── ejercicio10/
 │   └── Ejercicio10.java
+│
+├── documentacion/
+│   ├── algoritmos/
+│   ├── diagramas/
+│   └── pruebas/
+│
+└── evidencias/
+```
 
 ---
 
@@ -100,6 +107,8 @@ APE3-GrupoXX/
 | 08        | Ejercicio de estructuras de repetición | `Ejercicio08.java` |
 | 09        | Ejercicio de estructuras de repetición | `Ejercicio09.java` |
 | 10        | Ejercicio de estructuras de repetición | `Ejercicio10.java` |
+
+> **Nota:** La descripción de cada ejercicio puede modificarse de acuerdo con los enunciados establecidos por el docente.
 
 ---
 
@@ -221,6 +230,19 @@ Ejemplo:
 javac Ejercicio01.java
 java Ejercicio01
 ```
+
+---
+
+## 👨‍💻 Integrantes del grupo
+
+| N.º | Integrante                       |
+| --: | -------------------------------- |
+|   1 | Sandra Jazmin Alulema Chato      |
+|   2 | Anthony Daniel Armas Jaya        |
+|   3 | Joselyn Maribel Guaman Sagñay    |
+|   4 | Valeria Valentina Ortiz Mosquera |
+|   5 | Andrés Gabriel Vayas Masache     |
+
 ---
 
 ## 📌 Conclusión
