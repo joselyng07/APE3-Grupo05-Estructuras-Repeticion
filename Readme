@@ -1,4 +1,4 @@
-# 💻 APE 3 – Estructuras de Repetición en Java
+APE 3 – Estructuras de Repetición en Java
 
 Repositorio correspondiente a la **Actividad Práctica Experimental (APE 3)** de la asignatura **Algoritmos y Lógica de Programación**.
 
@@ -6,7 +6,7 @@ El proyecto reúne la resolución de **10 ejercicios en Java**, aplicando estruc
 
 ---
 
-## 📚 Datos académicos
+Datos académicos
 
 | Campo | Información |
 |---|---|
@@ -19,7 +19,7 @@ El proyecto reúne la resolución de **10 ejercicios en Java**, aplicando estruc
 
 ---
 
-## 👥 Integrantes
+Integrantes
 
 | N.º | Estudiante |
 |---:|---|
@@ -31,13 +31,13 @@ El proyecto reúne la resolución de **10 ejercicios en Java**, aplicando estruc
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Aplicar estructuras de repetición en Java mediante la resolución de diferentes problemas algorítmicos, fortaleciendo el razonamiento lógico, el manejo de variables y la capacidad para desarrollar soluciones mediante programación.
 
 ---
 
-## 🔄 Contenido
+## Contenido
 
 Durante el desarrollo de la actividad se trabajan diferentes estructuras y recursos de programación:
 
@@ -55,7 +55,7 @@ Cada ejercicio cuenta con su propio archivo Java para facilitar su organización
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```text
 APE3-GrupoXX/
