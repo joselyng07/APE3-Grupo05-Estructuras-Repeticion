@@ -1,34 +1,24 @@
-<table border="1">
-  <thead>
-    <tr>
-      <th><b>Campo</b></th>
-      <th><b>Información</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Tema</b></td>
-      <td>APE 3 - Estructuras de repetición en Java: resolución de los 10 ejercicios propuestos</td>
-    </tr>
-    <tr>
-      <td><b>Unidad de Organización Curricular</b></td>
-      <td>Unidad Básica</td>
-    </tr>
-    <tr>
-      <td><b>Nivel y Paralelo</b></td>
-      <td>Primer semestre - Ingeniería de Software</td>
-    </tr>
-    <tr>
-      <td><b>Asignatura</b></td>
-      <td>Algoritmos y Lógica de Programación</td>
-    </tr>
-    <tr>
-      <td><b>Docente</b></td>
-      <td>Ing. José Rubén Caiza Caizabuano</td>
-    </tr>
-    <tr>
-      <td><b>Grupo</b></td>
-      <td>Grupo 05</td>
-    </tr>
-  </tbody>
-</table>
+💻 APE 3 – Estructuras de Repetición en Java
+
+Repositorio correspondiente al desarrollo de la **Actividad Práctica Experimental (APE 3)** de la asignatura **Algoritmos y Lógica de Programación**.
+
+## 📋 Datos académicos
+
+| Campo | Información |
+|---|---|
+| **Tema** | APE 3 – Estructuras de Repetición en Java: resolución de los 10 ejercicios propuestos |
+| **Carrera** | Ingeniería de Software |
+| **Nivel** | Primer semestre |
+| **Unidad de Organización Curricular** | Unidad Básica |
+| **Asignatura** | Algoritmos y Lógica de Programación |
+| **Docente** | Ing. José Ruben Caiza Caizabuano |
+
+## 👥 Integrantes
+
+| N.º | Estudiante |
+|---:|---|
+| 1 | Sandra Jazmin Alulema Chato |
+| 2 | Anthony Daniel Armas Jaya |
+| 3 | Joselyn Maribel Guaman Sagñay |
+| 4 | Valeria Valentina Ortiz Mosquera |
+| 5 | Andrés Gabriel Vayas Masache |
