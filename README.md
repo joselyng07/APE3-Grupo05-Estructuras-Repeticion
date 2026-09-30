@@ -82,14 +82,6 @@ APE3-GrupoXX/
 │
 ├── ejercicio10/
 │   └── Ejercicio10.java
-│
-├── documentacion/
-│   ├── algoritmos/
-│   ├── diagramas/
-│   └── pruebas/
-│
-└── evidencias/
-```
 
 ---
 
@@ -107,8 +99,6 @@ APE3-GrupoXX/
 | 08        | Ejercicio de estructuras de repetición | `Ejercicio08.java` |
 | 09        | Ejercicio de estructuras de repetición | `Ejercicio09.java` |
 | 10        | Ejercicio de estructuras de repetición | `Ejercicio10.java` |
-
-> **Nota:** La descripción de cada ejercicio puede modificarse de acuerdo con los enunciados establecidos por el docente.
 
 ---
 
