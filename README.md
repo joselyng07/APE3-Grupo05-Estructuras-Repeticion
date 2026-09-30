@@ -20,7 +20,7 @@
 * **Anthony Daniel Armas Jaya**
 * **Joselyn Maribel Guaman Sagñay**
 * **Valeria Valentina Ortiz Mosquera**
-* **Andrés Gabriel Vayas Masache**
+* **Andres Gabriel Vayas Masache**
 
 ---
 
